@@ -1,0 +1,14 @@
+D:\QuizApi\bin\Debug\netcoreapp2.2\QuizApi.deps.json
+D:\QuizApi\bin\Debug\netcoreapp2.2\QuizApi.runtimeconfig.json
+D:\QuizApi\bin\Debug\netcoreapp2.2\QuizApi.runtimeconfig.dev.json
+D:\QuizApi\bin\Debug\netcoreapp2.2\QuizApi.dll
+D:\QuizApi\bin\Debug\netcoreapp2.2\QuizApi.pdb
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.csprojAssemblyReference.cache
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.csproj.CoreCompileInputs.cache
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.RazorAssemblyInfo.cache
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.RazorAssemblyInfo.cs
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.AssemblyInfoInputs.cache
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.AssemblyInfo.cs
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.RazorTargetAssemblyInfo.cache
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.dll
+D:\QuizApi\obj\Debug\netcoreapp2.2\QuizApi.pdb
